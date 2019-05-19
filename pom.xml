@@ -26,5 +26,10 @@
             <artifactId>geography-master</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.armineasy.activitymaster</groupId>
+            <artifactId>profile-master</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 </project>

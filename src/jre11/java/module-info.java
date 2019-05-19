@@ -10,4 +10,5 @@ module com.armineasy.activitymaster.realtor {
 	opens com.armineasy.activitymaster.realtor.dto.enumerations to com.google.guice;
 
 	requires lombok;
+	requires com.armineasy.activitymaster.profiles;
 }
