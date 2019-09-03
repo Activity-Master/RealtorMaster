@@ -1,8 +1,8 @@
 package com.armineasy.activitymaster.realtor.dto;
 
-import lombok.experimental.Accessors;
 
-@Accessors(chain = true)
+
+
 public class AgentProfile
 {
 	private long id;

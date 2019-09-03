@@ -3,11 +3,11 @@ package com.armineasy.activitymaster.realtor.dto.tickets;
 import com.armineasy.activitymaster.realtor.dto.AgentProfile;
 import com.armineasy.activitymaster.realtor.dto.enumerations.ERealtorPriority;
 import com.armineasy.activitymaster.realtor.dto.enumerations.ERealtorStage;
-import lombok.experimental.Accessors;
+
 
 import java.time.LocalDateTime;
 
-@Accessors(chain = true)
+
 public class RealtorTicket
 {
 	private long id;
