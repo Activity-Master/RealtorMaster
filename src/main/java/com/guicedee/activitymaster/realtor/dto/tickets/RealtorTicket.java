@@ -1,9 +1,8 @@
-package com.armineasy.activitymaster.realtor.dto.tickets;
+package com.guicedee.activitymaster.realtor.dto.tickets;
 
-import com.armineasy.activitymaster.realtor.dto.AgentProfile;
-import com.armineasy.activitymaster.realtor.dto.enumerations.ERealtorPriority;
-import com.armineasy.activitymaster.realtor.dto.enumerations.ERealtorStage;
-
+import com.guicedee.activitymaster.realtor.dto.AgentProfile;
+import com.guicedee.activitymaster.realtor.dto.enumerations.ERealtorPriority;
+import com.guicedee.activitymaster.realtor.dto.enumerations.ERealtorStage;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package com.armineasy.activitymaster.realtor.dto.enumerations;
+package com.guicedee.activitymaster.realtor.dto.enumerations;
 
 public enum ERealtorType
 {

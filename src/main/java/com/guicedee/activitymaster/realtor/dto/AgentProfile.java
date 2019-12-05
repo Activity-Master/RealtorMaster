@@ -1,4 +1,4 @@
-package com.armineasy.activitymaster.realtor.dto;
+package com.guicedee.activitymaster.realtor.dto;
 
 
 

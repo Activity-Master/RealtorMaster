@@ -1,6 +1,6 @@
-package com.armineasy.activitymaster.realtor;
+package com.guicedee.activitymaster.realtor;
 
-import com.armineasy.activitymaster.profiles.services.interfaces.IUserRole;
+import com.guicedee.activitymaster.profiles.services.interfaces.IUserRole;
 
 public enum RealtorUserTypes
 		implements IUserRole<RealtorUserTypes>
