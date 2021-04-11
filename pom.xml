@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.armineasy.activitymaster</groupId>
+        <groupId>com.guicedee.activitymaster</groupId>
         <artifactId>activitymaster-group</artifactId>
         <version>0.0.0_0-SNAPSHOT</version>
     </parent>
@@ -13,18 +13,18 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.armineasy.activitymaster</groupId>
+            <groupId>com.guicedee.activitymaster</groupId>
             <artifactId>activity-master</artifactId>
             <version>${project.version}</version>
         </dependency>
 
         <dependency>
-            <groupId>com.armineasy.activitymaster</groupId>
+            <groupId>com.guicedee.activitymaster</groupId>
             <artifactId>geography-master</artifactId>
             <version>${project.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.armineasy.activitymaster</groupId>
+            <groupId>com.guicedee.activitymaster</groupId>
             <artifactId>profile-master</artifactId>
             <version>${project.version}</version>
         </dependency>
