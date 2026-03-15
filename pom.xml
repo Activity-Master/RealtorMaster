@@ -11,6 +11,10 @@
     <packaging>jar</packaging>
     <name>Realtor Master</name>
 
+    <properties>
+        <project.scm.nameUrl>/Activity-Master/RealtorMaster</project.scm.nameUrl>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>com.guicedee.activitymaster</groupId>
